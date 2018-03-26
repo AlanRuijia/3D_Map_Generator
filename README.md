@@ -1,1 +1,1 @@
-This is the course project for CMPT 406 Computational Geometry.
+This project can generate a spherical voronoi diagram. 
