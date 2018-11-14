@@ -1,1 +1,3 @@
-This project can generate a spherical voronoi diagram. 
+### 3D_Map_Generator
+
+This software generates a spherical voronoi diagram. 
